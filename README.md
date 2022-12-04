@@ -1,2 +1,2 @@
 # lokon
-web site
+Hairdressing salon website
